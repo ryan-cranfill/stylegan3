@@ -1,3 +1,6 @@
+# What's new??
+- `setup.py` so you can install as a package. WOW!!
+
 ## Alias-Free Generative Adversarial Networks (StyleGAN3)<br><sub>Official PyTorch implementation of the NeurIPS 2021 paper</sub>
 
 ![Teaser image](./docs/stylegan3-teaser-1920x1006.png)
