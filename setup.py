@@ -8,6 +8,7 @@ setup(
               'stylegan3.gui_utils', 'stylegan3.torch_utils', 'stylegan3.torch_utils.ops', 'dnnlib', 'training',
               'torch_utils', 'torch_utils.ops', 'viz', 'gui_utils', 'metrics'],
     py_modules=['stylegan3.legacy'],
+    include_package_data=True,
     url='',
     license='',
     author='',

@@ -1,0 +1,3 @@
+include torch_utils/ops/*.cpp
+include torch_utils/ops/*.cu
+include torch_utils/ops/*.h
